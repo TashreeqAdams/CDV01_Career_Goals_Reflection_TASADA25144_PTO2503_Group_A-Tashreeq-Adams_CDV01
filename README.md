@@ -10,6 +10,7 @@
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
+
    Current Skills:
 
    - E-learning
@@ -30,6 +31,7 @@
    - Advanced JS
 
 2. **Interests and Values**:
+
    The key interests related to my current career is problem solving and creativity. Being able to solve problems and face challenges is very important as it drives me to overcome obstacles and stay invested in the task I am undertaking. Without the opportunity to solve problems it mitigates the opportunity to think critically which fosters an environemnt of intrinsic growth. Problem solving also sparks creativity and innovation in which one has to think out of the box and in many different angles to find the best fit solution to a problem. When constantly being faced with problems, and being allowed to be creative in finding the solution, growth is endless, which is why these two aspects are the most important to me in my career.
 
    Organisational values such as integrity, innovation, quality, excellence and interpersonal values such as respect, teamwork, empathy and inclusivity are important to me in a work environment.
@@ -37,6 +39,7 @@
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
+
    The industries and roles I have explored are:
 
    - Software developer
@@ -45,6 +48,7 @@
    - E-learning professional
 
 2. **Alignment with Personal Profile**:
+
    The above mentioned roles are roles, wherein facing problems creatively, is a daily standard and allows me to build material or products from scratch and alter them to cater for clients needs. Each role allows for creative innovation, allowing the exploration of new ways to run processes or develop. These roles are also not done autonomously and teamwork values are very necessary to meet client goals.
 
    The gaps or areas for further exploration are as follows:
@@ -55,6 +59,7 @@
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
+
    Complete a Codespace Software Dev Course.
 
    - Specific: Enroll in and finish the Career Starter Software Develpoment Course at Codespace.
@@ -115,6 +120,7 @@
    - A helpful coach with supportive attitude.
 
 2. **Preparation for Long-term Goals**:
+
    First and foremost the Career Starter course needs to be completed by April 2026. This sets the foundation for the transition into the software developer space. Additionally it would be a bonus to receive high merit for the course, in which I would be more attractive to employers.
 
    Once I have obtained and secured the junior or support position, it is imperative that I pay very close detail to the fundamentals and basics, to ensure quality practices are withheld my side. As I transition further, learning more in my career, I would like to do more courses, to further my knowledge and set myself up for new roles and higher positions.
