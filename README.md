@@ -30,32 +30,26 @@
 
 2. **Interests and Values**:
 
-   - Describe your key interests related to your career:
+   The key interests related to my current career is problem solving and creativity. Being able to solve problems and facing challenges is very important as it drives me to overcome obstacles and stay invested in the task I am undertaking. Without the opportunity to solve problems it mitigates the opportunity to think critically which fosters an environemnt of intrinsic growth. Problem solving also sparks creativity and innovation in which one has to think out of the box and in many different angles to find the best fit solution to a problem. When constantly being faced with problems, and being allowed to be creative in finding the solution, growth is endless, which is why these two aspects are the most important to me in my career.
 
-     The key interests related to my current career is problem solving and creativity. Being able to solve problems and facing challenges is very important as it drives me to overcome obstacles and stay invested in the task I am undertaking. Without the opportunity to solve problems it mitigates the opportunity to think critically which fosters an environemnt of intrinsic growth. Problem solving also sparks creativity and innovation in which one has to think out of the box and in many different angles to find the best fit solution to a problem. When constantly being faced with problems, and being allowed to be creative in finding the solution, growth is endless, which is why these two aspects are the most important to me in my career.
-
-   - What values are important to you in a work environment?
-
-     Organisational values such as integrity, innovation, quality and excellence. Interpersonal values such as respect, teamwork, empathy and inclusivity.
+   Organisational values such as integrity, innovation, quality and excellence. Interpersonal values such as respect, teamwork, empathy and inclusivity.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
 
-   - List the industries or roles you have researched:
+   The industries and roles I have explored are:
 
-     - Software developer
-     - Software support administrator
-     - Instructional Designer
-     - E-learning professional
+   - Software developer
+   - Software support administrator
+   - Instructional Designer
+   - E-learning professional
 
 2. **Alignment with Personal Profile**:
 
-   - Reflect on how these industries/roles align with your skills, interests, and values:
+   The above mentioned roles are roles, wherein facing problems creatively, is a daily standard and allows me to build material or products from scratch and alter them to cater for clients needs. Each role allows for creative innovation, allowing the expolration of new ways to run processes or develop. These roles aare also not done autonomously and teamwork values are very necessary to meet client goal.
 
-     The above mentioned roles are roles, wherein facing problems creatively, is a daily standard and allows me to build material or products from scratch and alter them to cater for clients needs. Each role allows for creative innovation, allowing the expolration of new ways to run processes or develop. These roles aare also not done autonomously and teamwork values are very necessary to meet client goal.
-
-   - Gaps or areas for further exploration:
+   The gaps or areas for further exploration are as follows:
 
    - Finding a bridge between Software Development and Instructional Design: Looking into apps or systems that are robust and pedagogically sound. This will create seamless e-learning.
    - Looking into using other languages to build e-learning interactions, Javascript aand Python etc. or find more ways for them to integrate into e-learning.
@@ -74,47 +68,42 @@
 
 2. **Long-term Goals** (3-5 years and beyond):
 
-   - Outline your long-term career aspirations.
+   - Year 3: In year 3 I aim to be in a junior software developer position or a support developer position in my current company or a new company.
+   - Year 4: In year 4 I aim to have built up the revelavant experience to work remotely for an international company as developer or support. I would also like to study further at this point towards becoming a senior developer.
+   - Year 5: In year 5 I aim on being a senior developer working for a tech company and have established my own web solutions company. At this point I want to be working for a company, running my own front end company doing websites etc. and freelancing at my own capacity.
 
-     Year 3: In year 3 I aim to be in a junior software developer position or a support developer position in my current company or a new company.
-     Year 4: In year 4 I aim to have built up the revelavant experience to work remotely for an international company as developer or support. I would also like to study further at this point towards becoming a senior developer.
-     Year 5: In year 5 I aim on being a senior developer working for a tech company and have established my own web solutions company. At this point I want to be working for a company, running my own front end company doing websites etc. and freelancing at my own capacity.
+   My goals from year 3 - 5 are carefully adapted step by step aand are aligned with my core values being the organisational values of integrity, innovation, quality, and excellence, as well as the interpersonal values of respect, teamwork, empathy, and inclusivity.
 
-   - Describe how these align with your interests and skills:
+   Year 3: In year 3 I aim to be in a junior software developer position or a support developer position in my current company or a new company.
 
-     My goals from year 3 - 5 are carefully adapted step by step aand are aligned with my core values being the organisational values of integrity, innovation, quality, and excellence, as well as the interpersonal values of respect, teamwork, empathy, and inclusivity.
+   Quality - In the beginning of my career as a junior software dev or support dev I will be focsing on the fundamentals and learning best practices to ensure the utomst quality.
+   Teamwork and respect - As a junior I will have the opportunity to learn from seniors and collaborate, in which respect and teamwork will be fundamental to delivering products to clients.
+   Inclusivity and Empathy - Communication and hoding the values of team members high, will be integral to growth at the start of my career.
 
-     Year 3: In year 3 I aim to be in a junior software developer position or a support developer position in my current company or a new company.
+   Year 4: In year 4 I aim to have built up the revelavant experience to work remotely for an international company as developer or support. I would also like to study further at this point towards becoming a senior developer.
 
-     Quality - In the beginning of my career as a junior software dev or support dev I will be focsing on the fundamentals and learning best practices to ensure the utomst quality.
-     Teamwork and respect - As a junior I will have the opportunity to learn from seniors and collaborate, in which respect and teamwork will be fundamental to delivering products to clients.
-     Inclusivity and Empathy - Communication and hoding the values of team members high, will be integral to growth at the start of my career.
+   Innovation and Excellence - Working for an international company will ensure I am able to learn and implement global standards and practices.
+   Respect and Empathy - Working remotely will require clear communaaaction and sympathy towards various cultures.
+   Integrity and Quality - Working remotely requires one to hold themself accountable for delivering quality work independently.
+   Inclusivity - As I study further and work in more diverse teams I will be challenged to learn and view different perspecrtives and values.
 
-     Year 4: In year 4 I aim to have built up the revelavant experience to work remotely for an international company as developer or support. I would also like to study further at this point towards becoming a senior developer.
+   Year 5: In year 5 I aim on being a senior developer working for a tech company and have established my own web solutions company. At this point I want to be working for a company, running my own front end company doing websites etc. and freelancing at my own capacity.
 
-     Innovation and Excellence - Working for an international company will ensure I am able to learn and implement global standards and practices.
-     Respect and Empathy - Working remotely will require clear communaaaction and sympathy towards various cultures.
-     Integrity and Quality - Working remotely requires one to hold themself accountable for delivering quality work independently.
-     Inclusivity - As I study further and work in more diverse teams I will be challenged to learn and view different perspecrtives and values.
-
-     Year 5: In year 5 I aim on being a senior developer working for a tech company and have established my own web solutions company. At this point I want to be working for a company, running my own front end company doing websites etc. and freelancing at my own capacity.
-
-     Excellence and Innovation - Once I have learned global standards and studied further I will be groomed to produce the highest standard of software development.
-     Integrity - Running my own company will require that I operate ethically, have clear open communication with clients and provide high quality products.
-     Teamwork and Respect - A clear vision aand mission will be integral whether working with international clients, or my team as an SME, initially.
-     Inclusivity and Empathy - Once I own my company I will have the power to recruite various people from various backgrounds and work with clients from all walks of life.
+   Excellence and Innovation - Once I have learned global standards and studied further I will be groomed to produce the highest standard of software development.
+   Integrity - Running my own company will require that I operate ethically, have clear open communication with clients and provide high quality products.
+   Teamwork and Respect - A clear vision aand mission will be integral whether working with international clients, or my team as an SME, initially.
+   Inclusivity and Empathy - Once I own my company I will have the power to recruite various people from various backgrounds and work with clients from all walks of life.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
 
-   - Detail specific actions or steps needed to achieve each short-term goal:
    - Set aaside 6-8 hours per week to complete courseware and submit challenges.
    - Attend all classes once a week.
    - Ensure that all submissions are uploaded before cut off time.
    - Engage with my coach and peer during classes to cover all blindspots and possible misunderstandings.
 
-   - Include any resources or support required:
+   The resources and support required is as follows:
 
    - All courseware (Career starter software development) to be provided, is required.
    - Clear concise communication from programme co-ordinators.
@@ -122,25 +111,22 @@
 
 2. **Preparation for Long-term Goals**:
 
-   - Describe the preparations or groundwork necessary for your long-term aspirations:
-     First and foremost the Career Starter course needs to be completed by April 2026. This sets the foundation for the transition into the software developer space. Additionally it would be a bonus to receive high merit for the course, in which I would be more attractive to employers.
+   First and foremost the Career Starter course needs to be completed by April 2026. This sets the foundation for the transition into the software developer space. Additionally it would be a bonus to receive high merit for the course, in which I would be more attractive to employers.
 
-     Once I have obtained and secured the junior or support position, it is imperative that I pay very close detail to the fundamentals and basics, to ensure quality practices are withheld my side. As I transition further, learning more in my career, I would like to do more courses, to further my knowledge and set myself up for new roles and higher positions.
+   Once I have obtained and secured the junior or support position, it is imperative that I pay very close detail to the fundamentals and basics, to ensure quality practices are withheld my side. As I transition further, learning more in my career, I would like to do more courses, to further my knowledge and set myself up for new roles and higher positions.
 
-     Once my further studies have been completed I would like to be a senior. This will take the understanding of many coding languages and frameworks, and the ability to co-ordinate a team.
+   Once my further studies have been completed I would like to be a senior. This will take the understanding of many coding languages and frameworks, and the ability to co-ordinate a team.
 
-   - Consider additional skills, experiences, or qualifications needed.
-     The following skills and experiences may be required over the years:
+   The following skills and experiences may be required over the years:
 
-     Year 3: Diploma/Certificate in Dev, GitHub, HTML/CSS/JS, Support certifications.
-     Year 4: Cloud certifications, Advanced dev courses, start a BSc or equivalent.
-     Year 5: Professional Dev certifications, Scrum, Entrepreneurship courses (I already have a Bachelors Degree in Commerce).
+   Year 3: Diploma/Certificate in Dev, GitHub, HTML/CSS/JS, Support certifications.
+   Year 4: Cloud certifications, Advanced dev courses, start a BSc or equivalent.
+   Year 5: Professional Dev certifications, Scrum, Entrepreneurship courses (I already have a Bachelors Degree in Commerce).
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
 
-   - Identify potential obstacles or challenges in reaching your goals
    - Lack of experience: Due to needing to climb up the hiarchy so quickly in limited time I might not be able to acquire all the experience required to reach senior level in time.
 
    Strategy - a strong portfolio is required including all GitHub projects and freelance work.
@@ -154,8 +140,6 @@
    Strategy - Attend as many tech meeting as possible, whether in person or online, to create an awareness of my brand and value as a developer.
 
 2. **Opportunities for Growth**:
-
-   - Highlight any opportunities you can leverage for career growth.
 
    - Networking: LinkedIn, GitHub, hackathons, webinars amd coding events serve as a great source of networking. These events will avail me to many similar professionals, business owners and recruiters which can all add value to my journey. Codespace Academy also has a number of events and workshops I can attend.
 
